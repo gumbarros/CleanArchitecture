@@ -7,3 +7,6 @@ theme = 'hugo-book' # A popular, clean, and minimal docs theme
   BookRepo = 'https://github.com/ardalis/CleanArchitecture'
   BookEditPath = 'edit/main/docs'
   BookSection = '*'
+
+
+pan
